@@ -1,4 +1,4 @@
-# DATN
+# Model_vgg16
 project use keras with vgg16 model for image classification
 
 step 1 : use make_data.py to generate training data
