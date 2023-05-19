@@ -1,0 +1,6 @@
+tensorflow-gpu==2.2.0
+scikit-learn
+scikit-image
+opencv-python-headless
+segmentation_models
+pillow
